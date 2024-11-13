@@ -11,7 +11,7 @@ O **Ouroboros** é uma aplicação móvel projetada para ajudar os usuários a g
  
 ## Acesse o Protótipo
  
-Você pode visualizar o protótipo da aplicação **Ouroboros** diretamente no Figma:
+Você pode *visualizar e interagir* com protótipo da aplicação **Ouroboros** diretamente no Figma:
  
 [**Clique aqui para acessar o protótipo do Ouroboros**](https://www.figma.com/proto/ZkwwkNVqd1YO7p4Y97sgm8/Aplica%C3%A7%C3%A3o-Financeira---Ouroboros?node-id=17-457&node-type=frame&t=cF1RDvWFpG7dhU5w-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=17%3A457)
  
