@@ -20,18 +20,11 @@ Aqui estão algumas imagens do protótipo da aplicação **Ouroboros**:
  
 ![Tela inicial](![Tela inicial - Celular](https://github.com/user-attachments/assets/bd3733d6-6bda-41ab-87d8-41be94d65554)
 
-*Tela inicial do Ouroboros*
- 
 ![Tela de metas financeiras](![Tela metas - Celular](https://github.com/user-attachments/assets/38a54629-bbbe-42a1-8213-a563778a8686)
 
-*Tela de metas financeiras*
- 
 ![Tela geral](![Tela geral - Celular](https://github.com/user-attachments/assets/dede132d-0995-4767-82ea-69b83476b0a3)
 )
 
-*Tela de entradas e saídas*
+(![Tela Relatórios - Celular](![Tela geral - Celular (1)](https://github.com/user-attachments/assets/9f5b0162-5549-40ba-9f46-4f8394bb9e83)
+)
 
-![Tela de perfil do usuário](![Tela Relatórios - Celular](![Tela geral - Celular (1)](https://github.com/user-attachments/assets/9f5b0162-5549-40ba-9f46-4f8394bb9e83)
-)
-)
-*Tela com conteúdo geral*
