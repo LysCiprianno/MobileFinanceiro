@@ -13,7 +13,7 @@ O **Ouroboros** é uma aplicação móvel projetada para ajudar os usuários a g
  
 Você pode visualizar o protótipo da aplicação **Ouroboros** diretamente no Figma:
  
-[**Clique aqui para acessar o protótipo do Ouroboros**](https://www.figma.com/proto/ZkwwkNVqd1YO7p4Y97sgm8/Aplica%C3%A7%C3%A3o-Financeira---Ouroboros?node-id=17-457&node-type=frame&t=8uHDOW63KETvDStx-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=17%3A457)
+[**Clique aqui para acessar o protótipo do Ouroboros**](https://www.figma.com/proto/ZkwwkNVqd1YO7p4Y97sgm8/Aplica%C3%A7%C3%A3o-Financeira---Ouroboros?node-id=17-457&node-type=frame&t=cF1RDvWFpG7dhU5w-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=17%3A457)
  
 ## Imagens do Protótipo
  
@@ -27,11 +27,12 @@ Aqui estão algumas imagens do protótipo da aplicação **Ouroboros**:
 
 *Tela de metas financeiras*
  
-![Tela geral](![Tela geral - Celular](![Tela geral - Celular](https://github.com/user-attachments/assets/dede132d-0995-4767-82ea-69b83476b0a3)
+![Tela geral](![Tela geral - Celular](https://github.com/user-attachments/assets/dede132d-0995-4767-82ea-69b83476b0a3)
 )
 
 *Tela de entradas e saídas*
 
-![Tela de perfil do usuário](![Tela Relatórios - Celular](https://github.com/user-attachments/assets/73d5084a-ba8a-49df-9293-04683d33365b)
+![Tela de perfil do usuário](![Tela Relatórios - Celular](![Tela geral - Celular (1)](https://github.com/user-attachments/assets/9f5b0162-5549-40ba-9f46-4f8394bb9e83)
+)
 )
 *Tela com conteúdo geral*
