@@ -22,7 +22,7 @@ Aqui estão algumas imagens do protótipo da aplicação **Ouroboros**:
 
 (![Tela metas - Celular](https://github.com/user-attachments/assets/38a54629-bbbe-42a1-8213-a563778a8686)
 
-(![Tela geral - Celular](https://github.com/user-attachments/assets/dede132d-0995-4767-82ea-69b83476b0a3)
+(![Tela Relatórios - Celular](https://github.com/user-attachments/assets/6d621397-c166-4cdc-befc-3b61a7181a8e)
 
 (![Tela geral - Celular](https://github.com/user-attachments/assets/9f5b0162-5549-40ba-9f46-4f8394bb9e83)
 
