@@ -7,7 +7,6 @@ O **Ouroboros** é uma aplicação móvel projetada para ajudar os usuários a g
 - **Controle Total das Finanças**: Monitore seus gastos diários, crie orçamentos personalizados e visualize seu progresso em tempo real.
 - **Análises Profundas**: Receba insights sobre seus hábitos financeiros, com gráficos interativos e sugestões personalizadas.
 - **Planejamento de Metas**: Defina e acompanhe suas metas financeiras, como poupar para viagens, grandes investimentos ou aposentadoria.
-- **Educação Financeira**: Acesse materiais educativos adaptados ao seu nível de conhecimento sobre finanças e investimentos.
  
 ## Acesse o Protótipo
  
