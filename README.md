@@ -19,16 +19,16 @@ Você pode visualizar o protótipo da aplicação **Ouroboros** diretamente no F
  
 Aqui estão algumas imagens do protótipo da aplicação **Ouroboros**:
  
-![Tela inicial](![Apresentação Ouroboros](https://github.com/user-attachments/assets/bd3733d6-6bda-41ab-87d8-41be94d65554)
-)
+(![Apresentação Ouroboros](https://github.com/user-attachments/assets/bd3733d6-6bda-41ab-87d8-41be94d65554)
+
 *Tela inicial do Ouroboros*
  
-![Tela de metas financeiras](![Tela apresentação](https://github.com/user-attachments/assets/38a54629-bbbe-42a1-8213-a563778a8686)
-)
+(![Tela apresentação](https://github.com/user-attachments/assets/38a54629-bbbe-42a1-8213-a563778a8686)
+
 *Tela de metas financeiras*
  
-![Tela de relatórios financeiros](![Tela Relatórios - Celular](https://github.com/user-attachments/assets/73d5084a-ba8a-49df-9293-04683d33365b)
-)
+(![Tela Relatórios - Celular](https://github.com/user-attachments/assets/73d5084a-ba8a-49df-9293-04683d33365b)
+
 *Tela de entradas e saídas*
 
 ![Tela de perfil do usuário](![Tela Relatórios - Celular](https://github.com/user-attachments/assets/73d5084a-ba8a-49df-9293-04683d33365b)
