@@ -27,7 +27,8 @@ Aqui estão algumas imagens do protótipo da aplicação **Ouroboros**:
 
 *Tela de metas financeiras*
  
-![Tela fluxo de caixa](![Tela fluxo de caixa - Celular](https://github.com/user-attachments/assets/73d5084a-ba8a-49df-9293-04683d33365b)
+![Tela geral](![Tela geral - Celular](![Tela geral - Celular](https://github.com/user-attachments/assets/dede132d-0995-4767-82ea-69b83476b0a3)
+)
 
 *Tela de entradas e saídas*
 
